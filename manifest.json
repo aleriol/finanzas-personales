@@ -1,0 +1,14 @@
+{
+  "name": "Finanzas Personales",
+  "short_name": "Finanzas",
+  "description": "Control de gastos y ahorros personales",
+  "start_url": "/finanzas-personales/",
+  "scope": "/finanzas-personales/",
+  "display": "standalone",
+  "background_color": "#0f0f14",
+  "theme_color": "#0f0f14",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
